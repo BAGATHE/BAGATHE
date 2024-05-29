@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emadalyangelo@gmail.com**
 
-- ⚡ Fun fact **I I am an ambitious man who will try to find a way to keep my personal or professional projects**
+- ⚡ Fun fact **I am an ambitious man who will try to find a way to keep my personal or professional projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
