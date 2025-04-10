@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" alt="shadcn" width="40" height="40"/>
 </a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="assets/images/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
 
 
