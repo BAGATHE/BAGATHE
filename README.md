@@ -42,6 +42,15 @@
     </td>
     <td style="width: 50%; padding: 10px;">
       <h3>Frameworks & Libraries</h3>
+      <a href="https://laravel.com" target="_blank" rel="noreferrer">
+        <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+      </a>
+       <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+      </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+      </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
@@ -54,20 +63,11 @@
       <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
         <img src="assets/images/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
       </a>
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-      </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
       </a>
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-      </a>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      </a>
-      <a href="https://laravel.com" target="_blank" rel="noreferrer">
-        <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
       </a>
     </td>
   </tr>
