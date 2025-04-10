@@ -22,7 +22,7 @@
 <h2 align="left">Languages and Tools:</h2>
 <table style="width: 100%; border-spacing: 10px;">
   <tr>
-    <td style="width: 48%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>Programming languages</h3>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -40,7 +40,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       </a>
     </td>
-    <td style="width: 48%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>Frameworks & Libraries</h3>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -72,13 +72,13 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 48%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>Mobile development</h3>
       <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/>
       </a>
     </td>
-    <td style="width: 48%; padding: 10px;">
+    <td style="width: 50%; padding: 10px;">
       <h3>Databases</h3>
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -92,7 +92,7 @@
     </td>
   </tr>
   <tr>
-  <td style="width: 48%; padding: 10px;">
+  <td style="width: 50%; padding: 10px;">
   <h3>Services & Tools</h3>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
