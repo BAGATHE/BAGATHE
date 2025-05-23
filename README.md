@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagathe&label=Profile%20views&color=0e75b6&style=flat" alt="bagathe" /> </p>
 
-- 🌱 I’m currently learning **Framework java**
+- 🌱 I’m currently learning **Odoo**
 
 - 💬 Ask me about **java,javascript,python**
 
