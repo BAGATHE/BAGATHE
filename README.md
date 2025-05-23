@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Framework java**
 
-- 💬 Ask me about **java,javascript,php,python**
+- 💬 Ask me about **java,javascript,python**
 
 - 📫 How to reach me **emadalyangelo@gmail.com**
 
